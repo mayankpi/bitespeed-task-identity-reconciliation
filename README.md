@@ -8,6 +8,18 @@
 git clone https://github.com/mayankpi/bitespeed-task-identity-reconciliation.git
 ```
 
+-   Docker Setup
+
+```
+docker compose up
+```
+
+-   To shutdown containers:
+
+```
+docker compose down
+```
+
 -   Requirements
 
 ```
